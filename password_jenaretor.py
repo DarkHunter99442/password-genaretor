@@ -74,4 +74,4 @@ for i in range(3):
     frame.columnconfigure(i, weight=1)
 
 root.mainloop()
-#pkkkkkkkkkk fine.........
+print("your name")
